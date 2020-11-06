@@ -1,0 +1,51 @@
+body{
+  background-color: 	#FFC0CB;
+}
+h1 { color: #111;
+  font-family: Chalkduster, fantasy;
+  font-size: 100px;
+  font-weight: bold;
+  letter-spacing: -1px;
+  line-height: 1;
+  text-align:
+  center; }
+
+.poempic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+
+}
+
+  h2 {
+    color: #111;
+    font-family: Trattatello, fantasy	;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 32px;
+    margin: 0 0 72px;
+    text-align: center;
+  }
+
+  .puzzlepic{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  }
+
+  p{
+    color: #111;
+    font-family: Trattatello, fantasy	;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 32px;
+    text-align: center;
+
+  }
+
+  .skillz{
+    margin-left: auto;
+  margin-right: auto;
+  }
